@@ -1,0 +1,3467 @@
+{
+    "nodes": [
+        {
+            "data": {
+                "id": "CB1",
+                "label": "CB1",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "DG1",
+                "label": "DG1",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "DG2",
+                "label": "DG2",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "ER1",
+                "label": "ER1",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "EV1",
+                "label": "EV1",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "EV2",
+                "label": "EV2",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "J1",
+                "label": "J1",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "J2",
+                "label": "J2",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "J3",
+                "label": "J3",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "J4",
+                "label": "J4",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "K1",
+                "label": "K1",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "LP1",
+                "label": "LP1",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "LP2",
+                "label": "LP2",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "MT1",
+                "label": "MT1",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "MT2",
+                "label": "MT2",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "PWR1",
+                "label": "PWR1",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "PWR2",
+                "label": "PWR2",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "RSW",
+                "label": "RSW",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "SSR",
+                "label": "SSR",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "TB1",
+                "label": "TB1",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "TC1",
+                "label": "TC1",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "TM1",
+                "label": "TM1",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "CW",
+                "label": "CW",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "CCW",
+                "label": "CCW",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "POT",
+                "label": "POT",
+                "parent": ""
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "CB1_(上)",
+                "label": "上",
+                "parent": "CB1"
+            }
+        },
+        {
+            "data": {
+                "id": "CB1_(下)",
+                "label": "下",
+                "parent": "CB1"
+            }
+        },
+        {
+            "data": {
+                "id": "DG1_(-)",
+                "label": "-",
+                "parent": "DG1"
+            }
+        },
+        {
+            "data": {
+                "id": "DG1_(+)",
+                "label": "+",
+                "parent": "DG1"
+            }
+        },
+        {
+            "data": {
+                "id": "DG1_(OUT(-))",
+                "label": "OUT(-))",
+                "parent": "DG1"
+            }
+        },
+        {
+            "data": {
+                "id": "DG1_(OUT(+))",
+                "label": "(OUT(+))",
+                "parent": "DG1"
+            }
+        },
+        {
+            "data": {
+                "id": "DG1_(OUT)",
+                "label": "OUT",
+                "parent": "DG1"
+            }
+        },
+        {
+            "data": {
+                "id": "DG2_(-)",
+                "label": "-",
+                "parent": "DG2"
+            }
+        },
+        {
+            "data": {
+                "id": "DG2_(+)",
+                "label": "+",
+                "parent": "DG2"
+            }
+        },
+        {
+            "data": {
+                "id": "DG2_(OUT(-))",
+                "label": "OUT(-)",
+                "parent": "DG2"
+            }
+        },
+        {
+            "data": {
+                "id": "DG2_(OUT(+))",
+                "label": "OUT(+)",
+                "parent": "DG2"
+            }
+        },
+        {
+            "data": {
+                "id": "DG2_(OUT)",
+                "label": "OUT",
+                "parent": "DG2"
+            }
+        },
+        {
+            "data": {
+                "id": "ER1_1",
+                "label": "1",
+                "parent": "ER1"
+            }
+        },
+        {
+            "data": {
+                "id": "ER1_2",
+                "label": "2",
+                "parent": "ER1"
+            }
+        },
+        {
+            "data": {
+                "id": "ER1_3",
+                "label": "3",
+                "parent": "ER1"
+            }
+        },
+        {
+            "data": {
+                "id": "ER1_4",
+                "label": "4",
+                "parent": "ER1"
+            }
+        },
+        {
+            "data": {
+                "id": "ER1_5",
+                "label": "5",
+                "parent": "ER1"
+            }
+        },
+        {
+            "data": {
+                "id": "ER1_6",
+                "label": "6",
+                "parent": "ER1"
+            }
+        },
+        {
+            "data": {
+                "id": "ER1_7",
+                "label": "7",
+                "parent": "ER1"
+            }
+        },
+        {
+            "data": {
+                "id": "ER1_8",
+                "label": "8",
+                "parent": "ER1"
+            }
+        },
+        {
+            "data": {
+                "id": "ER1_9",
+                "label": "9",
+                "parent": "ER1"
+            }
+        },
+        {
+            "data": {
+                "id": "EV1_(-)",
+                "label": "-",
+                "parent": "EV1"
+            }
+        },
+        {
+            "data": {
+                "id": "EV1_(+)",
+                "label": "+",
+                "parent": "EV1"
+            }
+        },
+        {
+            "data": {
+                "id": "EV2_(-)",
+                "label": "-",
+                "parent": "EV2"
+            }
+        },
+        {
+            "data": {
+                "id": "EV2_(+)",
+                "label": "+",
+                "parent": "EV2"
+            }
+        },
+        {
+            "data": {
+                "id": "J1_1",
+                "label": "1",
+                "parent": "J1"
+            }
+        },
+        {
+            "data": {
+                "id": "J1_2",
+                "label": "2",
+                "parent": "J1"
+            }
+        },
+        {
+            "data": {
+                "id": "J1_3",
+                "label": "3",
+                "parent": "J1"
+            }
+        },
+        {
+            "data": {
+                "id": "J2_1",
+                "label": "1",
+                "parent": "J2"
+            }
+        },
+        {
+            "data": {
+                "id": "J2_2",
+                "label": "2",
+                "parent": "J2"
+            }
+        },
+        {
+            "data": {
+                "id": "J3_1",
+                "label": "1",
+                "parent": "J3"
+            }
+        },
+        {
+            "data": {
+                "id": "J3_2",
+                "label": "2",
+                "parent": "J3"
+            }
+        },
+        {
+            "data": {
+                "id": "J3_3",
+                "label": "3",
+                "parent": "J3"
+            }
+        },
+        {
+            "data": {
+                "id": "J3_4",
+                "label": "4",
+                "parent": "J3"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_1A/B",
+                "label": "1A/B",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_2A/B",
+                "label": "2A/B",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_3A/B",
+                "label": "3A/B",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_5A/B",
+                "label": "5A/B",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_6A/B",
+                "label": "6A/B",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_8A",
+                "label": "8A",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_8B",
+                "label": "8B",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_9A",
+                "label": "9A",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_10A",
+                "label": "10A",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_11A",
+                "label": "11A",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_11B",
+                "label": "11B",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_12A",
+                "label": "12A",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_12B",
+                "label": "12B",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_13A",
+                "label": "13A",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_13B",
+                "label": "13B",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_14A",
+                "label": "14A",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_15A",
+                "label": "15A",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_16A",
+                "label": "16A",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_17A",
+                "label": "17A",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_18A",
+                "label": "18A",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_19A/B",
+                "label": "19A/B",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_20A",
+                "label": "20A",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_20B",
+                "label": "20B",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_21A",
+                "label": "21A",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_21B",
+                "label": "21B",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_22A",
+                "label": "22A",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_22B",
+                "label": "22B",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_23A",
+                "label": "23A",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_23B",
+                "label": "23B",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_24A",
+                "label": "24A",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_25A",
+                "label": "25A",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_26A",
+                "label": "26A",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_26B",
+                "label": "26B",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_27A",
+                "label": "27A",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_27B",
+                "label": "27B",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_28A",
+                "label": "28A",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_29A",
+                "label": "29A",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_31A/B",
+                "label": "31A/B",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "J4_32A/B",
+                "label": "32A/B",
+                "parent": "J4"
+            }
+        },
+        {
+            "data": {
+                "id": "K1_1",
+                "label": "1",
+                "parent": "K1"
+            }
+        },
+        {
+            "data": {
+                "id": "K1_4",
+                "label": "4",
+                "parent": "K1"
+            }
+        },
+        {
+            "data": {
+                "id": "K1_9",
+                "label": "9",
+                "parent": "K1"
+            }
+        },
+        {
+            "data": {
+                "id": "K1_12",
+                "label": "12",
+                "parent": "K1"
+            }
+        },
+        {
+            "data": {
+                "id": "K1_13",
+                "label": "13",
+                "parent": "K1"
+            }
+        },
+        {
+            "data": {
+                "id": "K1_14",
+                "label": "14",
+                "parent": "K1"
+            }
+        },
+        {
+            "data": {
+                "id": "LP1",
+                "label": "1",
+                "parent": "LP1"
+            }
+        },
+        {
+            "data": {
+                "id": "LP2",
+                "label": "2",
+                "parent": "LP2"
+            }
+        },
+        {
+            "data": {
+                "id": "MT1_1",
+                "label": "1",
+                "parent": "MT1"
+            }
+        },
+        {
+            "data": {
+                "id": "MT1_3",
+                "label": "3",
+                "parent": "MT1"
+            }
+        },
+        {
+            "data": {
+                "id": "MT1_17",
+                "label": "17",
+                "parent": "MT1"
+            }
+        },
+        {
+            "data": {
+                "id": "MT1_18",
+                "label": "18",
+                "parent": "MT1"
+            }
+        },
+        {
+            "data": {
+                "id": "MT2_1",
+                "label": "1",
+                "parent": "MT2"
+            }
+        },
+        {
+            "data": {
+                "id": "MT2_3",
+                "label": "3",
+                "parent": "MT2"
+            }
+        },
+        {
+            "data": {
+                "id": "MT2_7",
+                "label": "7",
+                "parent": "MT2"
+            }
+        },
+        {
+            "data": {
+                "id": "MT2_14",
+                "label": "14",
+                "parent": "MT2"
+            }
+        },
+        {
+            "data": {
+                "id": "MT2_17",
+                "label": "17",
+                "parent": "MT2"
+            }
+        },
+        {
+            "data": {
+                "id": "MT2_18",
+                "label": "18",
+                "parent": "MT2"
+            }
+        },
+        {
+            "data": {
+                "id": "PS1",
+                "label": "PS1",
+                "parent": ""
+            }
+        },
+        {
+            "data": {
+                "id": "PS2",
+                "label": "PS2",
+                "parent": ""
+            }
+        },
+        {
+            "data": {
+                "id": "PS10",
+                "label": "PS10",
+                "parent": ""
+            }
+        },
+        {
+            "data": {
+                "id": "PWR1_AC_(H)",
+                "label": "AC_(H)",
+                "parent": "PWR1"
+            }
+        },
+        {
+            "data": {
+                "id": "PWR1_AC_(L)",
+                "label": "AC_(L)",
+                "parent": "PWR1"
+            }
+        },
+        {
+            "data": {
+                "id": "PWR1_V_(-)_(G)",
+                "label": "V_(-)_(G)",
+                "parent": "PWR1"
+            }
+        },
+        {
+            "data": {
+                "id": "PWR1_V_(+)_(+24)",
+                "label": "V_(+)_(+24)",
+                "parent": "PWR1"
+            },
+            "classes": "compound"
+        },
+        {
+            "data": {
+                "id": "PWR2_AC_(H)",
+                "label": "AC_(H)",
+                "parent": "PWR2"
+            }
+        },
+        {
+            "data": {
+                "id": "PWR2_AC_(L)",
+                "label": "AC_(L)",
+                "parent": "PWR2"
+            }
+        },
+        {
+            "data": {
+                "id": "PWR2_(-15)",
+                "label": "-15",
+                "parent": "PWR2"
+            }
+        },
+        {
+            "data": {
+                "id": "PWR2_(+5)",
+                "label": "+5",
+                "parent": "PWR2"
+            }
+        },
+        {
+            "data": {
+                "id": "PWR2_(+15)",
+                "label": "+15",
+                "parent": "PWR2"
+            }
+        },
+        {
+            "data": {
+                "id": "PWR2_(C)",
+                "label": "C",
+                "parent": "PWR2"
+            }
+        },
+        {
+            "data": {
+                "id": "PWR2_(GND)",
+                "label": "GND",
+                "parent": "PWR2"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW1_1",
+                "label": "1_1",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW1_2",
+                "label": "1_2",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW1_3",
+                "label": "1_3",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW1_4",
+                "label": "1_4",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW1_5",
+                "label": "1_5",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW1_7",
+                "label": "1_7",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW1_8",
+                "label": "1_8",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW1_9",
+                "label": "1_9",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW1_10",
+                "label": "1_10",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW1_11",
+                "label": "1_11",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW2_1",
+                "label": "2_1",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW2_2",
+                "label": "2_2",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW2_3",
+                "label": "2_3",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW2_4",
+                "label": "2_4",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW2_5",
+                "label": "2_5",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW2_7",
+                "label": "2_7",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW2_8",
+                "label": "2_8",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW2_9",
+                "label": "2_9",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW2_10",
+                "label": "2_10",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW2_11",
+                "label": "2_11",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW_(C1)",
+                "label": "C1",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW_(C2)",
+                "label": "C2",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW_(C3)",
+                "label": "C3",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "RSW_(C4)",
+                "label": "C4",
+                "parent": "RSW"
+            }
+        },
+        {
+            "data": {
+                "id": "SSR_1",
+                "label": "1",
+                "parent": "SSR"
+            }
+        },
+        {
+            "data": {
+                "id": "SSR_2",
+                "label": "2",
+                "parent": "SSR"
+            }
+        },
+        {
+            "data": {
+                "id": "SSR_3",
+                "label": "3",
+                "parent": "SSR"
+            }
+        },
+        {
+            "data": {
+                "id": "SSR_4",
+                "label": "4",
+                "parent": "SSR"
+            }
+        },
+        {
+            "data": {
+                "id": "TB1_1",
+                "label": "1",
+                "parent": "TB1"
+            }
+        },
+        {
+            "data": {
+                "id": "TB1_2",
+                "label": "2",
+                "parent": "TB1"
+            }
+        },
+        {
+            "data": {
+                "id": "TB1_3",
+                "label": "3",
+                "parent": "TB1"
+            }
+        },
+        {
+            "data": {
+                "id": "TB1_4",
+                "label": "4",
+                "parent": "TB1"
+            }
+        },
+        {
+            "data": {
+                "id": "TB1_5",
+                "label": "5",
+                "parent": "TB1"
+            }
+        },
+        {
+            "data": {
+                "id": "TB1_6",
+                "label": "6",
+                "parent": "TB1"
+            }
+        },
+        {
+            "data": {
+                "id": "TB1_7",
+                "label": "7",
+                "parent": "TB1"
+            }
+        },
+        {
+            "data": {
+                "id": "TB1_8",
+                "label": "8",
+                "parent": "TB1"
+            }
+        },
+        {
+            "data": {
+                "id": "TB1_9",
+                "label": "9",
+                "parent": "TB1"
+            }
+        },
+        {
+            "data": {
+                "id": "TB1_10",
+                "label": "10",
+                "parent": "TB1"
+            }
+        },
+        {
+            "data": {
+                "id": "TB1_11",
+                "label": "11",
+                "parent": "TB1"
+            }
+        },
+        {
+            "data": {
+                "id": "TB1_12",
+                "label": "12",
+                "parent": "TB1"
+            }
+        },
+        {
+            "data": {
+                "id": "TC1_1_(PWR1)",
+                "label": "1_(PWR1)",
+                "parent": "TC1"
+            }
+        },
+        {
+            "data": {
+                "id": "TC1_2_(PWR2)",
+                "label": "2_(PWR2)",
+                "parent": "TC1"
+            }
+        },
+        {
+            "data": {
+                "id": "TC1_11_(-)",
+                "label": "11_(-)",
+                "parent": "TC1"
+            }
+        },
+        {
+            "data": {
+                "id": "TC1_12_(+)",
+                "label": "12_(+)",
+                "parent": "TC1"
+            }
+        },
+        {
+            "data": {
+                "id": "TC1_13_(L)",
+                "label": "13_(L)",
+                "parent": "TC1"
+            }
+        },
+        {
+            "data": {
+                "id": "TC1_14_(C)",
+                "label": "14_(C)",
+                "parent": "TC1"
+            }
+        },
+        {
+            "data": {
+                "id": "TC1_15_(H)",
+                "label": "15_(H)",
+                "parent": "TC1"
+            }
+        },
+        {
+            "data": {
+                "id": "TM1_2",
+                "label": "2",
+                "parent": "TM1"
+            }
+        },
+        {
+            "data": {
+                "id": "TM1_3",
+                "label": "3",
+                "parent": "TM1"
+            }
+        },
+        {
+            "data": {
+                "id": "TM1_6",
+                "label": "6",
+                "parent": "TM1"
+            }
+        },
+        {
+            "data": {
+                "id": "TM1_7",
+                "label": "7",
+                "parent": "TM1"
+            }
+        },
+        {
+            "data": {
+                "id": "TM1_8",
+                "label": "8",
+                "parent": "TM1"
+            }
+        },
+        {
+            "data": {
+                "id": "TM1_10",
+                "label": "10",
+                "parent": "TM1"
+            }
+        },
+        {
+            "data": {
+                "id": "TM1_11",
+                "label": "11",
+                "parent": "TM1"
+            }
+        },
+        {
+            "data": {
+                "id": "C1",
+                "label": "C2",
+                "parent": ""
+            }
+        },
+        {
+            "data": {
+                "id": "C2",
+                "label": "C2",
+                "parent": ""
+            }
+        },
+        {
+            "data": {
+                "id": "CW1",
+                "label": "1",
+                "parent": "CW"
+            }
+        },
+        {
+            "data": {
+                "id": "CW3",
+                "label": "3",
+                "parent": "CW"
+            }
+        },
+        {
+            "data": {
+                "id": "CCW1",
+                "label": "1",
+                "parent": "CCW"
+            }
+        },
+        {
+            "data": {
+                "id": "CCW2",
+                "label": "2",
+                "parent": "CCW"
+            }
+        },
+        {
+            "data": {
+                "id": "CCW3",
+                "label": "3",
+                "parent": "CCW"
+            }
+        },
+        {
+            "data": {
+                "id": "POT1",
+                "label": "1",
+                "parent": "POT"
+            }
+        },
+        {
+            "data": {
+                "id": "POT2",
+                "label": "2",
+                "parent": "POT"
+            }
+        },
+        {
+            "data": {
+                "id": "POT3",
+                "label": "3",
+                "parent": "POT"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "data": {
+                "source": "J3_1",
+                "target": "CB1_(下)",
+                "label": "#14,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "CB1_(下)",
+                "target": "TB1_1",
+                "label": "#14,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "CB1_(下)",
+                "target": "TB1_2",
+                "label": "#14,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "CB1_(下)",
+                "target": "TB1_3",
+                "label": "#14,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "CB1_(下)",
+                "target": "TB1_4",
+                "label": "#14,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "CB1_(下)",
+                "target": "TB1_5",
+                "label": "#14,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J3_2",
+                "target": "SSR_1",
+                "color": "red",
+                "label": "#14,ｱｶ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "SSR_2",
+                "target": "J1_2",
+                "color": "red",
+                "label": "#14,ｱｶ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J3_3",
+                "target": "SSR_4",
+                "label": "#20,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "SSR_3",
+                "target": "K1_4",
+                "label": "#20,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "K1_12",
+                "target": "TB1_7",
+                "label": "#20,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "K1_12",
+                "target": "TB1_8",
+                "label": "#20,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J3_4",
+                "target": "RSW1_8",
+                "label": "#20,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J3_4",
+                "target": "RSW1_9",
+                "label": "#20,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J3_4",
+                "target": "RSW1_10",
+                "label": "#20,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J3_4",
+                "target": "RSW1_11",
+                "label": "#20,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J1_1",
+                "target": "CB1_(上)",
+                "label": "#14,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J1_2",
+                "target": "TB1_6",
+                "color": "red",
+                "label": "#14,ｱｶ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J1_2",
+                "target": "TB1_7",
+                "color": "red",
+                "label": "#14,ｱｶ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J1_2",
+                "target": "TB1_8",
+                "color": "red",
+                "label": "#14,ｱｶ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TB1_9",
+                "target": "PWR1_V_(+)_(+24)",
+                "color": "yellow",
+                "label": "#20,ｷ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TB1_10",
+                "target": "PWR1_V_(+)_(+24)",
+                "color": "yellow",
+                "label": "#20,ｷ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TB1_11",
+                "target": "PWR1_V_(-)_(G)",
+                "label": "#22,ｸﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TB1_12",
+                "target": "PWR1_V_(-)_(G)",
+                "label": "#22,ｸﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TB1_1",
+                "target": "J4_31A/B",
+                "label": "#20,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TB1_2",
+                "target": "K1_14",
+                "label": "#20,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TB1_3",
+                "target": "TC1_1_(PWR1)",
+                "label": "#20,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TB1_4",
+                "target": "PWR1_AC_(H)",
+                "label": "#20,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TB1_5",
+                "target": "PWR2_AC_(H)",
+                "label": "#20,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TB1_6",
+                "target": "TC1_14_(C)",
+                "label": "#20",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TB1_6",
+                "target": "TC1_2_(PWR2)",
+                "label": "#20",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TB1_7",
+                "target": "PWR1_AC_(L)",
+                "label": "#20",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TB1_8",
+                "target": "PWR2_AC_(L)",
+                "color": "blue",
+                "label": "#20,ｱｵ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TB1_9",
+                "target": "TM1_10",
+                "color": "blue",
+                "label": "#20,ｱｵ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TB1_9",
+                "target": "J4_26B",
+                "label": "#20",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TB1_10",
+                "target": "EV1_(+)",
+                "label": "#20",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TB1_10",
+                "target": "EV2_(+)",
+                "label": "#20",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TB1_11",
+                "target": "TM1_2",
+                "label": "#20",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TB1_12",
+                "target": "EV1_(-)",
+                "label": "#20",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_1A/B",
+                "target": "PWR2_(+15)",
+                "color": "orange",
+                "label": "ﾀﾞｲ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_1A/B",
+                "target": "ER1_3",
+                "color": "orange",
+                "label": "ﾀﾞｲ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_2A/B",
+                "target": "PWR2_(C)",
+                "label": "ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_2A/B",
+                "target": "ER1_4",
+                "label": "ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_3A/B",
+                "target": "PWR2_(-15)",
+                "color": "blue",
+                "label": "ｱｵ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_3A/B",
+                "target": "ER1_5",
+                "color": "blue",
+                "label": "ｱｵ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_5A/B",
+                "target": "PWR2_(+5)",
+                "color": "red",
+                "label": "ｱｶ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_5A/B",
+                "target": "LP1",
+                "color": "red",
+                "label": "ｱｶ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_6A/B",
+                "target": "PWR2_(GND)",
+                "label": "ｸﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_8A",
+                "target": "K1_9",
+                "label": "#22,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_8B",
+                "target": "K1_1",
+                "label": "#22,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_9A",
+                "target": "RSW1_1",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_10A",
+                "target": "RSW2_7",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_10A",
+                "target": "RSW2_8",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_10A",
+                "target": "RSW2_9",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_10A",
+                "target": "RSW2_10",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_11A",
+                "target": "TM1_6",
+                "label": "ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_11B",
+                "target": "TM1_3",
+                "label": "ｸﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_12A",
+                "target": "TM1_3",
+                "label": "ｸﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_12B",
+                "target": "TM1_7",
+                "label": "ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_13A",
+                "target": "TM1_8",
+                "label": "ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_13B",
+                "target": "TM1_11",
+                "label": "#22,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_14A",
+                "target": "CW3",
+                "color": "orange",
+                "label": "ﾀﾞｲ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "CW3",
+                "target": "POT3",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "POT3",
+                "target": "CCW1",
+                "color": "blue",
+                "label": "ｱｵ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_15A",
+                "target": "POT3",
+                "label": "ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_16A",
+                "target": "CCW1",
+                "color": "blue",
+                "label": "ｱｵ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_17A",
+                "target": "ER1_6",
+                "label": "ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_18A",
+                "target": "ER1_6",
+                "label": "#22,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_19A/B",
+                "target": "EV2_(-)",
+                "label": "#22,ｸﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_20A",
+                "target": "CCW3",
+                "color": "blue",
+                "label": "ｱｵ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_20B",
+                "target": "RSW1_2",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_21B",
+                "target": "RSW1_3",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_22B",
+                "target": "RSW1_4",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_23B",
+                "target": "RSW1_4",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "CCW3",
+                "target": "POT1",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "POT1",
+                "target": "CW1",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_21A",
+                "target": "C2",
+                "label": "ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "C2",
+                "target": "POT2",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_22A",
+                "target": "CW1",
+                "color": "orange",
+                "label": "ﾀﾞｲ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_23A",
+                "target": "CCW3",
+                "color": "blue",
+                "label": "ｱｵ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "CCW3",
+                "target": "POT2",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "POT2",
+                "target": "CW1",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_24A",
+                "target": "C2",
+                "label": "ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "C2",
+                "target": "POT2",
+                "label": "ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_25A",
+                "target": "CW1",
+                "color": "orange",
+                "label": "ﾀﾞｲ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_26A",
+                "target": "DG1_(OUT)",
+                "label": "ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_26B",
+                "target": "TB1_9",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_27A",
+                "target": "DG2_(OUT)",
+                "label": "ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_27B",
+                "target": "RSW2_1",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_27B",
+                "target": "RSW2_2",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_27B",
+                "target": "RSW2_3",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_27B",
+                "target": "RSW2_4",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_28A",
+                "target": "MT1_1",
+                "label": "ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_29A",
+                "target": "MT2_1",
+                "label": "ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_31A/B",
+                "target": "RSW_(C2)",
+                "label": "#22,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J4_32A/B",
+                "target": "TB1_1",
+                "label": "#22,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "RSW_(C1)",
+                "target": "RSW_(C3)",
+                "label": "#22",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "RSW1_1",
+                "target": "J4_9A",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "RSW1_2",
+                "target": "J4_20B",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "RSW1_3",
+                "target": "J4_21B",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "RSW1_4",
+                "target": "J4_22B",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "RSW1_5",
+                "target": "J4_23B",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "RSW_(C2)",
+                "target": "J4_32A/B",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "RSW1_8",
+                "target": "J3_4",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "RSW1_9",
+                "target": "J3_4",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "RSW1_10",
+                "target": "J3_4",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "RSW1_11",
+                "target": "J3_4",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "RSW_(C4)",
+                "target": "LP2",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "PWR1_AC_(H)",
+                "target": "TB1_4",
+                "label": "#20,ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "PWR1_AC_(L)",
+                "target": "TB1_7",
+                "color": "blue",
+                "label": "#20,ｱｵ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "PWR1_V_(+)_(+24)",
+                "target": "TB1_9",
+                "color": "yellow",
+                "label": "#22,ｷ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "PWR1_V_(+)_(+24)",
+                "target": "MT1_18",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "PWR1_V_(+)_(+24)",
+                "target": "MT2_18",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "PWR1_V_(+)_(+24)",
+                "target": "DG1_(+)",
+                "color": "red",
+                "label": "ｱｶ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "PWR1_V_(+)_(+24)",
+                "target": "DG2_(+)",
+                "color": "red",
+                "label": "ｱｶ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "PWR1_V_(-)_(G)",
+                "target": "TB1_11",
+                "label": "#22,ｸﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "PWR1_V_(-)_(G)",
+                "target": "MT1_17",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "PWR1_V_(-)_(G)",
+                "target": "MT2_17",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "PWR1_V_(-)_(G)",
+                "target": "DG1_(-)",
+                "label": "ｸﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "PWR1_V_(-)_(G)",
+                "target": "DG2_(-)",
+                "label": "ｸﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TC1_11_(-)",
+                "target": "J2_2",
+                "label": "ｼﾛ,補償導線",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TC1_12_(+)",
+                "target": "J2_1",
+                "color": "red",
+                "label": "ｱｶ,補償導線",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "J2_1",
+                "target": "J2_2",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TC1_15_(H)",
+                "target": "K1_13",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "K1_1",
+                "target": "J4_8B",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "K1_9",
+                "target": "J4_8A",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "K1_12",
+                "target": "TB1_7",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "K1_12",
+                "target": "TB1_8",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "MT1_1",
+                "target": "J4_28A",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "MT1_3",
+                "target": "PS1",
+                "color": "green",
+                "label": "ﾐﾄﾞﾘ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "MT2_1",
+                "target": "J4_29A",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "MT2_3",
+                "target": "PS2",
+                "color": "green",
+                "label": "ﾐﾄﾞﾘ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "MT2_7",
+                "target": "MT2_14",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "DG1_(OUT(+))",
+                "target": "J4_26A",
+                "label": "ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "DG1_(OUT(-))",
+                "target": "MT1_3",
+                "color": "green",
+                "label": "ﾐﾄﾞﾘ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "DG2_(OUT(+))",
+                "target": "J4_27A",
+                "label": "ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "DG2_(OUT(-))",
+                "target": "MT2_3",
+                "color": "green",
+                "label": "ﾐﾄﾞﾘ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "PWR2_AC_(H)",
+                "target": "TB1_5",
+                "label": "ｸﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "PWR2_AC_(L)",
+                "target": "TB1_8",
+                "label": "ｼﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "ER1_7",
+                "target": "J4_3A/B",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "ER1_8",
+                "target": "J4_3A/B",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TM1_2",
+                "target": "TB1_11",
+                "label": "",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "TM1_10",
+                "target": "TB1_9",
+                "label": "#22",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "EV2_(+)",
+                "target": "TB1_10",
+                "color": "yellow",
+                "label": "#22,ｷ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "EV1_(+)",
+                "target": "TB1_10",
+                "color": "yellow",
+                "label": "#22,ｷ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        },
+        {
+            "data": {
+                "source": "EV1_(-)",
+                "target": "TB1_12",
+                "label": "#22,ｸﾛ",
+                "cyedgebendeditingWeights": [
+                    0.5
+                ],
+                "cyedgebendeditingDistances": [
+                    0
+                ]
+            },
+            "classes": "edgebendediting-hasbendpoints"
+        }
+    ]
+}
